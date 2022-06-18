@@ -1,0 +1,18 @@
+[
+	{
+		"name": "gh-pages",
+		"commit": {
+			"sha": "192d7fb0e4e1da2a0ad70c6609488333ee51bd57",
+			"url": "https://api.github.com/repos/upptime/upptime/commits/192d7fb0e4e1da2a0ad70c6609488333ee51bd57"
+		},
+		"protected": false
+	},
+	{
+		"name": "master",
+		"commit": {
+			"sha": "3803028d26f93ff05f71504dccd12b09f03d5603",
+			"url": "https://api.github.com/repos/upptime/upptime/commits/3803028d26f93ff05f71504dccd12b09f03d5603"
+		},
+		"protected": false
+	}
+]

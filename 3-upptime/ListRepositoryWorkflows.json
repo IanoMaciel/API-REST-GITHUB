@@ -1,0 +1,113 @@
+{
+	"total_count": 9,
+	"workflows": [
+		{
+			"id": 2140157,
+			"node_id": "MDg6V29ya2Zsb3cyMTQwMTU3",
+			"name": "Uptime CI",
+			"path": ".github/workflows/uptime.yml",
+			"state": "active",
+			"created_at": "2020-08-08T19:10:24.000Z",
+			"updated_at": "2021-04-25T01:14:42.000Z",
+			"url": "https://api.github.com/repos/upptime/upptime/actions/workflows/2140157",
+			"html_url": "https://github.com/upptime/upptime/blob/master/.github/workflows/uptime.yml",
+			"badge_url": "https://github.com/upptime/upptime/workflows/Uptime%20CI/badge.svg"
+		},
+		{
+			"id": 2140276,
+			"node_id": "MDg6V29ya2Zsb3cyMTQwMjc2",
+			"name": "Summary CI",
+			"path": ".github/workflows/summary.yml",
+			"state": "active",
+			"created_at": "2020-08-08T19:37:44.000Z",
+			"updated_at": "2021-04-25T01:14:42.000Z",
+			"url": "https://api.github.com/repos/upptime/upptime/actions/workflows/2140276",
+			"html_url": "https://github.com/upptime/upptime/blob/master/.github/workflows/summary.yml",
+			"badge_url": "https://github.com/upptime/upptime/workflows/Summary%20CI/badge.svg"
+		},
+		{
+			"id": 2142431,
+			"node_id": "MDg6V29ya2Zsb3cyMTQyNDMx",
+			"name": "Response Time CI",
+			"path": ".github/workflows/response-time.yml",
+			"state": "active",
+			"created_at": "2020-08-09T05:38:38.000Z",
+			"updated_at": "2021-04-25T01:14:42.000Z",
+			"url": "https://api.github.com/repos/upptime/upptime/actions/workflows/2142431",
+			"html_url": "https://github.com/upptime/upptime/blob/master/.github/workflows/response-time.yml",
+			"badge_url": "https://github.com/upptime/upptime/workflows/Response%20Time%20CI/badge.svg"
+		},
+		{
+			"id": 2143272,
+			"node_id": "MDg6V29ya2Zsb3cyMTQzMjcy",
+			"name": "Graphs CI",
+			"path": ".github/workflows/graphs.yml",
+			"state": "active",
+			"created_at": "2020-08-09T09:13:42.000Z",
+			"updated_at": "2021-04-25T01:14:42.000Z",
+			"url": "https://api.github.com/repos/upptime/upptime/actions/workflows/2143272",
+			"html_url": "https://github.com/upptime/upptime/blob/master/.github/workflows/graphs.yml",
+			"badge_url": "https://github.com/upptime/upptime/workflows/Graphs%20CI/badge.svg"
+		},
+		{
+			"id": 2150289,
+			"node_id": "MDg6V29ya2Zsb3cyMTUwMjg5",
+			"name": "Static Site CI",
+			"path": ".github/workflows/site.yml",
+			"state": "active",
+			"created_at": "2020-08-10T07:47:28.000Z",
+			"updated_at": "2021-04-25T01:14:42.000Z",
+			"url": "https://api.github.com/repos/upptime/upptime/actions/workflows/2150289",
+			"html_url": "https://github.com/upptime/upptime/blob/master/.github/workflows/site.yml",
+			"badge_url": "https://github.com/upptime/upptime/workflows/Static%20Site%20CI/badge.svg"
+		},
+		{
+			"id": 2689763,
+			"node_id": "MDg6V29ya2Zsb3cyNjg5NzYz",
+			"name": "Update Template CI",
+			"path": ".github/workflows/update-template.yml",
+			"state": "active",
+			"created_at": "2020-09-23T10:56:01.000Z",
+			"updated_at": "2021-04-25T01:14:42.000Z",
+			"url": "https://api.github.com/repos/upptime/upptime/actions/workflows/2689763",
+			"html_url": "https://github.com/upptime/upptime/blob/master/.github/workflows/update-template.yml",
+			"badge_url": "https://github.com/upptime/upptime/workflows/Update%20Template%20CI/badge.svg"
+		},
+		{
+			"id": 2987417,
+			"node_id": "MDg6V29ya2Zsb3cyOTg3NDE3",
+			"name": "Setup CI",
+			"path": ".github/workflows/setup.yml",
+			"state": "active",
+			"created_at": "2020-10-13T20:38:34.000Z",
+			"updated_at": "2021-04-25T01:14:42.000Z",
+			"url": "https://api.github.com/repos/upptime/upptime/actions/workflows/2987417",
+			"html_url": "https://github.com/upptime/upptime/blob/master/.github/workflows/setup.yml",
+			"badge_url": "https://github.com/upptime/upptime/workflows/Setup%20CI/badge.svg"
+		},
+		{
+			"id": 3806249,
+			"node_id": "MDg6V29ya2Zsb3czODA2MjQ5",
+			"name": "Updates CI",
+			"path": ".github/workflows/updates.yml",
+			"state": "active",
+			"created_at": "2020-11-24T10:15:12.000Z",
+			"updated_at": "2021-04-25T01:14:42.000Z",
+			"url": "https://api.github.com/repos/upptime/upptime/actions/workflows/3806249",
+			"html_url": "https://github.com/upptime/upptime/blob/master/.github/workflows/updates.yml",
+			"badge_url": "https://github.com/upptime/upptime/workflows/Updates%20CI/badge.svg"
+		},
+		{
+			"id": 16833250,
+			"node_id": "W_kwDOEQ08j84BANri",
+			"name": "pages-build-deployment",
+			"path": "dynamic/pages/pages-build-deployment",
+			"state": "active",
+			"created_at": "2021-12-24T02:06:59.000Z",
+			"updated_at": "2021-12-24T02:06:59.000Z",
+			"url": "https://api.github.com/repos/upptime/upptime/actions/workflows/16833250",
+			"html_url": "https://github.com/upptime/upptime/blob/master/dynamic/pages/pages-build-deployment",
+			"badge_url": "https://github.com/upptime/upptime/workflows/pages-build-deployment/badge.svg"
+		}
+	]
+}
