@@ -1,0 +1,138 @@
+{
+	"total_count": 7,
+	"artifacts": [
+		{
+			"id": 96007128,
+			"node_id": "MDg6QXJ0aWZhY3Q5NjAwNzEyOA==",
+			"name": "category_validation",
+			"size_in_bytes": 400,
+			"url": "https://api.github.com/repos/actions/starter-workflows/actions/artifacts/96007128",
+			"archive_download_url": "https://api.github.com/repos/actions/starter-workflows/actions/artifacts/96007128/zip",
+			"expired": true,
+			"created_at": "2021-09-24T10:40:38Z",
+			"updated_at": "2021-09-24T10:40:39Z",
+			"expires_at": "2021-12-23T10:40:35Z",
+			"workflow_run": {
+				"id": 1269475662,
+				"repository_id": 199488860,
+				"head_repository_id": 377717524,
+				"head_branch": "categories-lint",
+				"head_sha": "13eda07d9b545d1e5d81851eb1b5014017237363"
+			}
+		},
+		{
+			"id": 95502224,
+			"node_id": "MDg6QXJ0aWZhY3Q5NTUwMjIyNA==",
+			"name": "category_validation",
+			"size_in_bytes": 400,
+			"url": "https://api.github.com/repos/actions/starter-workflows/actions/artifacts/95502224",
+			"archive_download_url": "https://api.github.com/repos/actions/starter-workflows/actions/artifacts/95502224/zip",
+			"expired": true,
+			"created_at": "2021-09-23T05:27:28Z",
+			"updated_at": "2021-09-23T05:27:28Z",
+			"expires_at": "2021-12-22T05:27:24Z",
+			"workflow_run": {
+				"id": 1264592218,
+				"repository_id": 199488860,
+				"head_repository_id": 377717524,
+				"head_branch": "categories-lint",
+				"head_sha": "fc69912eb8440354e2f9274f9d907024b4c5fa30"
+			}
+		},
+		{
+			"id": 94275484,
+			"node_id": "MDg6QXJ0aWZhY3Q5NDI3NTQ4NA==",
+			"name": "category_validation",
+			"size_in_bytes": 400,
+			"url": "https://api.github.com/repos/actions/starter-workflows/actions/artifacts/94275484",
+			"archive_download_url": "https://api.github.com/repos/actions/starter-workflows/actions/artifacts/94275484/zip",
+			"expired": true,
+			"created_at": "2021-09-20T05:51:27Z",
+			"updated_at": "2021-09-20T05:51:27Z",
+			"expires_at": "2021-12-19T05:51:24Z",
+			"workflow_run": {
+				"id": 1252420839,
+				"repository_id": 199488860,
+				"head_repository_id": 377717524,
+				"head_branch": "categories-lint",
+				"head_sha": "3ce2c73d9baa3ea779a9927329fac91fbda55f65"
+			}
+		},
+		{
+			"id": 93252591,
+			"node_id": "MDg6QXJ0aWZhY3Q5MzI1MjU5MQ==",
+			"name": "category_validation",
+			"size_in_bytes": 396,
+			"url": "https://api.github.com/repos/actions/starter-workflows/actions/artifacts/93252591",
+			"archive_download_url": "https://api.github.com/repos/actions/starter-workflows/actions/artifacts/93252591/zip",
+			"expired": true,
+			"created_at": "2021-09-16T05:51:21Z",
+			"updated_at": "2021-09-16T05:51:21Z",
+			"expires_at": "2021-12-15T05:51:17Z",
+			"workflow_run": {
+				"id": 1240396330,
+				"repository_id": 199488860,
+				"head_repository_id": 377717524,
+				"head_branch": "categories-lint",
+				"head_sha": "847dbafd17e224395b49a359850ce41bbe595d0d"
+			}
+		},
+		{
+			"id": 93251206,
+			"node_id": "MDg6QXJ0aWZhY3Q5MzI1MTIwNg==",
+			"name": "category_validation",
+			"size_in_bytes": 396,
+			"url": "https://api.github.com/repos/actions/starter-workflows/actions/artifacts/93251206",
+			"archive_download_url": "https://api.github.com/repos/actions/starter-workflows/actions/artifacts/93251206/zip",
+			"expired": true,
+			"created_at": "2021-09-16T05:41:38Z",
+			"updated_at": "2021-09-16T05:41:39Z",
+			"expires_at": "2021-12-15T05:41:35Z",
+			"workflow_run": {
+				"id": 1240378722,
+				"repository_id": 199488860,
+				"head_repository_id": 377717524,
+				"head_branch": "categories-lint",
+				"head_sha": "7bebee8bbe10f507c979bf7a8569675a194de646"
+			}
+		},
+		{
+			"id": 88194611,
+			"node_id": "MDg6QXJ0aWZhY3Q4ODE5NDYxMQ==",
+			"name": "category_validation",
+			"size_in_bytes": 537,
+			"url": "https://api.github.com/repos/actions/starter-workflows/actions/artifacts/88194611",
+			"archive_download_url": "https://api.github.com/repos/actions/starter-workflows/actions/artifacts/88194611/zip",
+			"expired": true,
+			"created_at": "2021-08-31T08:45:27Z",
+			"updated_at": "2021-08-31T08:45:27Z",
+			"expires_at": "2021-11-29T08:45:24Z",
+			"workflow_run": {
+				"id": 1185422103,
+				"repository_id": 199488860,
+				"head_repository_id": 377717524,
+				"head_branch": "categories-validation-two-workflows",
+				"head_sha": "46a5c4b6faffa123dc21ead38940b447f6f196e0"
+			}
+		},
+		{
+			"id": 88168385,
+			"node_id": "MDg6QXJ0aWZhY3Q4ODE2ODM4NQ==",
+			"name": "category_validation",
+			"size_in_bytes": 537,
+			"url": "https://api.github.com/repos/actions/starter-workflows/actions/artifacts/88168385",
+			"archive_download_url": "https://api.github.com/repos/actions/starter-workflows/actions/artifacts/88168385/zip",
+			"expired": true,
+			"created_at": "2021-08-31T07:12:01Z",
+			"updated_at": "2021-08-31T07:12:02Z",
+			"expires_at": "2021-11-29T07:11:57Z",
+			"workflow_run": {
+				"id": 1185139894,
+				"repository_id": 199488860,
+				"head_repository_id": 377717524,
+				"head_branch": "categories-validation-two-workflows",
+				"head_sha": "f1fbe15b35c69e2d533e8bfd2191948420e8d0be"
+			}
+		}
+	]
+}

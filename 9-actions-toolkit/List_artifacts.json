@@ -1,0 +1,575 @@
+{
+	"total_count": 2288,
+	"artifacts": [
+		{
+			"id": 270848104,
+			"node_id": "MDg6QXJ0aWZhY3QyNzA4NDgxMDQ=",
+			"name": "core",
+			"size_in_bytes": 19807,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/270848104",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/270848104/zip",
+			"expired": false,
+			"created_at": "2022-06-15T16:00:00Z",
+			"updated_at": "2022-06-15T16:00:02Z",
+			"expires_at": "2022-09-13T15:58:30Z",
+			"workflow_run": {
+				"id": 2503506047,
+				"repository_id": 182299236,
+				"head_repository_id": 182299236,
+				"head_branch": "main",
+				"head_sha": "9b7bcb1567c9b7f134eb3c2d6bbf409a5106a956"
+			}
+		},
+		{
+			"id": 270826819,
+			"node_id": "MDg6QXJ0aWZhY3QyNzA4MjY4MTk=",
+			"name": "my-artifact-3",
+			"size_in_bytes": 0,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/270826819",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/270826819/zip",
+			"expired": false,
+			"created_at": "2022-06-15T15:40:09Z",
+			"updated_at": "2022-06-15T15:40:09Z",
+			"expires_at": "2022-09-13T15:35:51Z",
+			"workflow_run": {
+				"id": 2503383968,
+				"repository_id": 182299236,
+				"head_repository_id": 182299236,
+				"head_branch": "main",
+				"head_sha": "9b7bcb1567c9b7f134eb3c2d6bbf409a5106a956"
+			}
+		},
+		{
+			"id": 270826818,
+			"node_id": "MDg6QXJ0aWZhY3QyNzA4MjY4MTg=",
+			"name": "my-artifact-2",
+			"size_in_bytes": 136,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/270826818",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/270826818/zip",
+			"expired": false,
+			"created_at": "2022-06-15T15:40:09Z",
+			"updated_at": "2022-06-15T15:40:09Z",
+			"expires_at": "2022-09-13T15:35:51Z",
+			"workflow_run": {
+				"id": 2503383968,
+				"repository_id": 182299236,
+				"head_repository_id": 182299236,
+				"head_branch": "main",
+				"head_sha": "9b7bcb1567c9b7f134eb3c2d6bbf409a5106a956"
+			}
+		},
+		{
+			"id": 270826817,
+			"node_id": "MDg6QXJ0aWZhY3QyNzA4MjY4MTc=",
+			"name": "my-artifact-1",
+			"size_in_bytes": 6,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/270826817",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/270826817/zip",
+			"expired": false,
+			"created_at": "2022-06-15T15:40:09Z",
+			"updated_at": "2022-06-15T15:40:09Z",
+			"expires_at": "2022-09-13T15:35:51Z",
+			"workflow_run": {
+				"id": 2503383968,
+				"repository_id": 182299236,
+				"head_repository_id": 182299236,
+				"head_branch": "main",
+				"head_sha": "9b7bcb1567c9b7f134eb3c2d6bbf409a5106a956"
+			}
+		},
+		{
+			"id": 270810501,
+			"node_id": "MDg6QXJ0aWZhY3QyNzA4MTA1MDE=",
+			"name": "my-artifact-3",
+			"size_in_bytes": 0,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/270810501",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/270810501/zip",
+			"expired": false,
+			"created_at": "2022-06-15T15:25:09Z",
+			"updated_at": "2022-06-15T15:25:10Z",
+			"expires_at": "2022-09-13T15:24:09Z",
+			"workflow_run": {
+				"id": 2503311420,
+				"repository_id": 182299236,
+				"head_repository_id": 182299236,
+				"head_branch": "thboop/1.9.0release",
+				"head_sha": "9d05a5945186d47dbd1c12cb8b3ddaa89b674ad2"
+			}
+		},
+		{
+			"id": 270810500,
+			"node_id": "MDg6QXJ0aWZhY3QyNzA4MTA1MDA=",
+			"name": "my-artifact-2",
+			"size_in_bytes": 136,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/270810500",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/270810500/zip",
+			"expired": false,
+			"created_at": "2022-06-15T15:25:09Z",
+			"updated_at": "2022-06-15T15:25:10Z",
+			"expires_at": "2022-09-13T15:24:08Z",
+			"workflow_run": {
+				"id": 2503311420,
+				"repository_id": 182299236,
+				"head_repository_id": 182299236,
+				"head_branch": "thboop/1.9.0release",
+				"head_sha": "9d05a5945186d47dbd1c12cb8b3ddaa89b674ad2"
+			}
+		},
+		{
+			"id": 270810499,
+			"node_id": "MDg6QXJ0aWZhY3QyNzA4MTA0OTk=",
+			"name": "my-artifact-1",
+			"size_in_bytes": 6,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/270810499",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/270810499/zip",
+			"expired": false,
+			"created_at": "2022-06-15T15:25:09Z",
+			"updated_at": "2022-06-15T15:25:10Z",
+			"expires_at": "2022-09-13T15:24:08Z",
+			"workflow_run": {
+				"id": 2503311420,
+				"repository_id": 182299236,
+				"head_repository_id": 182299236,
+				"head_branch": "thboop/1.9.0release",
+				"head_sha": "9d05a5945186d47dbd1c12cb8b3ddaa89b674ad2"
+			}
+		},
+		{
+			"id": 270809362,
+			"node_id": "MDg6QXJ0aWZhY3QyNzA4MDkzNjI=",
+			"name": "my-artifact-3",
+			"size_in_bytes": 0,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/270809362",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/270809362/zip",
+			"expired": false,
+			"created_at": "2022-06-15T15:24:06Z",
+			"updated_at": "2022-06-15T15:24:07Z",
+			"expires_at": "2022-09-13T15:22:51Z",
+			"workflow_run": {
+				"id": 2503302843,
+				"repository_id": 182299236,
+				"head_repository_id": 182299236,
+				"head_branch": "thboop/1.9.0release",
+				"head_sha": "af52a43780a8ac6ce5ad378af1b6b985c22cc151"
+			}
+		},
+		{
+			"id": 270809361,
+			"node_id": "MDg6QXJ0aWZhY3QyNzA4MDkzNjE=",
+			"name": "my-artifact-2",
+			"size_in_bytes": 136,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/270809361",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/270809361/zip",
+			"expired": false,
+			"created_at": "2022-06-15T15:24:06Z",
+			"updated_at": "2022-06-15T15:24:07Z",
+			"expires_at": "2022-09-13T15:22:50Z",
+			"workflow_run": {
+				"id": 2503302843,
+				"repository_id": 182299236,
+				"head_repository_id": 182299236,
+				"head_branch": "thboop/1.9.0release",
+				"head_sha": "af52a43780a8ac6ce5ad378af1b6b985c22cc151"
+			}
+		},
+		{
+			"id": 270809360,
+			"node_id": "MDg6QXJ0aWZhY3QyNzA4MDkzNjA=",
+			"name": "my-artifact-1",
+			"size_in_bytes": 6,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/270809360",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/270809360/zip",
+			"expired": false,
+			"created_at": "2022-06-15T15:24:06Z",
+			"updated_at": "2022-06-15T15:24:07Z",
+			"expires_at": "2022-09-13T15:22:50Z",
+			"workflow_run": {
+				"id": 2503302843,
+				"repository_id": 182299236,
+				"head_repository_id": 182299236,
+				"head_branch": "thboop/1.9.0release",
+				"head_sha": "af52a43780a8ac6ce5ad378af1b6b985c22cc151"
+			}
+		},
+		{
+			"id": 270808722,
+			"node_id": "MDg6QXJ0aWZhY3QyNzA4MDg3MjI=",
+			"name": "my-artifact-3",
+			"size_in_bytes": 0,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/270808722",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/270808722/zip",
+			"expired": false,
+			"created_at": "2022-06-15T15:23:31Z",
+			"updated_at": "2022-06-15T15:23:33Z",
+			"expires_at": "2022-09-13T15:19:51Z",
+			"workflow_run": {
+				"id": 2503283163,
+				"repository_id": 182299236,
+				"head_repository_id": 182299236,
+				"head_branch": "main",
+				"head_sha": "00282d61458d99f725588a9463b9d25dfda51c22"
+			}
+		},
+		{
+			"id": 270808721,
+			"node_id": "MDg6QXJ0aWZhY3QyNzA4MDg3MjE=",
+			"name": "my-artifact-2",
+			"size_in_bytes": 136,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/270808721",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/270808721/zip",
+			"expired": false,
+			"created_at": "2022-06-15T15:23:31Z",
+			"updated_at": "2022-06-15T15:23:32Z",
+			"expires_at": "2022-09-13T15:19:50Z",
+			"workflow_run": {
+				"id": 2503283163,
+				"repository_id": 182299236,
+				"head_repository_id": 182299236,
+				"head_branch": "main",
+				"head_sha": "00282d61458d99f725588a9463b9d25dfda51c22"
+			}
+		},
+		{
+			"id": 270808719,
+			"node_id": "MDg6QXJ0aWZhY3QyNzA4MDg3MTk=",
+			"name": "my-artifact-1",
+			"size_in_bytes": 6,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/270808719",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/270808719/zip",
+			"expired": false,
+			"created_at": "2022-06-15T15:23:31Z",
+			"updated_at": "2022-06-15T15:23:32Z",
+			"expires_at": "2022-09-13T15:19:49Z",
+			"workflow_run": {
+				"id": 2503283163,
+				"repository_id": 182299236,
+				"head_repository_id": 182299236,
+				"head_branch": "main",
+				"head_sha": "00282d61458d99f725588a9463b9d25dfda51c22"
+			}
+		},
+		{
+			"id": 266070951,
+			"node_id": "MDg6QXJ0aWZhY3QyNjYwNzA5NTE=",
+			"name": "my-artifact-3",
+			"size_in_bytes": 0,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/266070951",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/266070951/zip",
+			"expired": false,
+			"created_at": "2022-06-10T07:38:21Z",
+			"updated_at": "2022-06-10T07:38:22Z",
+			"expires_at": "2022-09-08T07:37:07Z",
+			"workflow_run": {
+				"id": 2473493015,
+				"repository_id": 182299236,
+				"head_repository_id": 500716916,
+				"head_branch": "v-sdolin/debug-osversion",
+				"head_sha": "cca5aa7d50565052df146bbde1f20f7aa17f5cbd"
+			}
+		},
+		{
+			"id": 266070950,
+			"node_id": "MDg6QXJ0aWZhY3QyNjYwNzA5NTA=",
+			"name": "my-artifact-2",
+			"size_in_bytes": 136,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/266070950",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/266070950/zip",
+			"expired": false,
+			"created_at": "2022-06-10T07:38:21Z",
+			"updated_at": "2022-06-10T07:38:22Z",
+			"expires_at": "2022-09-08T07:37:07Z",
+			"workflow_run": {
+				"id": 2473493015,
+				"repository_id": 182299236,
+				"head_repository_id": 500716916,
+				"head_branch": "v-sdolin/debug-osversion",
+				"head_sha": "cca5aa7d50565052df146bbde1f20f7aa17f5cbd"
+			}
+		},
+		{
+			"id": 266070948,
+			"node_id": "MDg6QXJ0aWZhY3QyNjYwNzA5NDg=",
+			"name": "my-artifact-1",
+			"size_in_bytes": 6,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/266070948",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/266070948/zip",
+			"expired": false,
+			"created_at": "2022-06-10T07:38:21Z",
+			"updated_at": "2022-06-10T07:38:22Z",
+			"expires_at": "2022-09-08T07:37:07Z",
+			"workflow_run": {
+				"id": 2473493015,
+				"repository_id": 182299236,
+				"head_repository_id": 500716916,
+				"head_branch": "v-sdolin/debug-osversion",
+				"head_sha": "cca5aa7d50565052df146bbde1f20f7aa17f5cbd"
+			}
+		},
+		{
+			"id": 265689664,
+			"node_id": "MDg6QXJ0aWZhY3QyNjU2ODk2NjQ=",
+			"name": "my-artifact-3",
+			"size_in_bytes": 0,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/265689664",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/265689664/zip",
+			"expired": false,
+			"created_at": "2022-06-09T21:04:22Z",
+			"updated_at": "2022-06-09T21:04:23Z",
+			"expires_at": "2022-09-07T21:03:13Z",
+			"workflow_run": {
+				"id": 2471160514,
+				"repository_id": 182299236,
+				"head_repository_id": 500716916,
+				"head_branch": "v-sdolin/debug-osversion",
+				"head_sha": "0025442e24e1bc01c257602aedf0702ce80c6b00"
+			}
+		},
+		{
+			"id": 265689663,
+			"node_id": "MDg6QXJ0aWZhY3QyNjU2ODk2NjM=",
+			"name": "my-artifact-2",
+			"size_in_bytes": 136,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/265689663",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/265689663/zip",
+			"expired": false,
+			"created_at": "2022-06-09T21:04:22Z",
+			"updated_at": "2022-06-09T21:04:23Z",
+			"expires_at": "2022-09-07T21:03:13Z",
+			"workflow_run": {
+				"id": 2471160514,
+				"repository_id": 182299236,
+				"head_repository_id": 500716916,
+				"head_branch": "v-sdolin/debug-osversion",
+				"head_sha": "0025442e24e1bc01c257602aedf0702ce80c6b00"
+			}
+		},
+		{
+			"id": 265689662,
+			"node_id": "MDg6QXJ0aWZhY3QyNjU2ODk2NjI=",
+			"name": "my-artifact-1",
+			"size_in_bytes": 6,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/265689662",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/265689662/zip",
+			"expired": false,
+			"created_at": "2022-06-09T21:04:22Z",
+			"updated_at": "2022-06-09T21:04:23Z",
+			"expires_at": "2022-09-07T21:03:12Z",
+			"workflow_run": {
+				"id": 2471160514,
+				"repository_id": 182299236,
+				"head_repository_id": 500716916,
+				"head_branch": "v-sdolin/debug-osversion",
+				"head_sha": "0025442e24e1bc01c257602aedf0702ce80c6b00"
+			}
+		},
+		{
+			"id": 265686880,
+			"node_id": "MDg6QXJ0aWZhY3QyNjU2ODY4ODA=",
+			"name": "my-artifact-3",
+			"size_in_bytes": 0,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/265686880",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/265686880/zip",
+			"expired": false,
+			"created_at": "2022-06-09T21:00:27Z",
+			"updated_at": "2022-06-09T21:00:28Z",
+			"expires_at": "2022-09-07T20:57:16Z",
+			"workflow_run": {
+				"id": 2471132734,
+				"repository_id": 182299236,
+				"head_repository_id": 500716916,
+				"head_branch": "v-sdolin/debug-osversion",
+				"head_sha": "7bd5862a4d5c81d16a29014ff40c485f12d03415"
+			}
+		},
+		{
+			"id": 265686879,
+			"node_id": "MDg6QXJ0aWZhY3QyNjU2ODY4Nzk=",
+			"name": "my-artifact-2",
+			"size_in_bytes": 136,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/265686879",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/265686879/zip",
+			"expired": false,
+			"created_at": "2022-06-09T21:00:27Z",
+			"updated_at": "2022-06-09T21:00:28Z",
+			"expires_at": "2022-09-07T20:57:15Z",
+			"workflow_run": {
+				"id": 2471132734,
+				"repository_id": 182299236,
+				"head_repository_id": 500716916,
+				"head_branch": "v-sdolin/debug-osversion",
+				"head_sha": "7bd5862a4d5c81d16a29014ff40c485f12d03415"
+			}
+		},
+		{
+			"id": 265686878,
+			"node_id": "MDg6QXJ0aWZhY3QyNjU2ODY4Nzg=",
+			"name": "my-artifact-1",
+			"size_in_bytes": 6,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/265686878",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/265686878/zip",
+			"expired": false,
+			"created_at": "2022-06-09T21:00:27Z",
+			"updated_at": "2022-06-09T21:00:28Z",
+			"expires_at": "2022-09-07T20:57:15Z",
+			"workflow_run": {
+				"id": 2471132734,
+				"repository_id": 182299236,
+				"head_repository_id": 500716916,
+				"head_branch": "v-sdolin/debug-osversion",
+				"head_sha": "7bd5862a4d5c81d16a29014ff40c485f12d03415"
+			}
+		},
+		{
+			"id": 265079633,
+			"node_id": "MDg6QXJ0aWZhY3QyNjUwNzk2MzM=",
+			"name": "my-artifact-3",
+			"size_in_bytes": 0,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/265079633",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/265079633/zip",
+			"expired": false,
+			"created_at": "2022-06-09T10:10:23Z",
+			"updated_at": "2022-06-09T10:10:24Z",
+			"expires_at": "2022-09-07T10:09:27Z",
+			"workflow_run": {
+				"id": 2467575867,
+				"repository_id": 182299236,
+				"head_repository_id": 500716916,
+				"head_branch": "v-sdolin/debug-osversion",
+				"head_sha": "22b43a3041f43a44197567186a1eb48b3e5e9fb4"
+			}
+		},
+		{
+			"id": 265079632,
+			"node_id": "MDg6QXJ0aWZhY3QyNjUwNzk2MzI=",
+			"name": "my-artifact-2",
+			"size_in_bytes": 136,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/265079632",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/265079632/zip",
+			"expired": false,
+			"created_at": "2022-06-09T10:10:23Z",
+			"updated_at": "2022-06-09T10:10:24Z",
+			"expires_at": "2022-09-07T10:09:02Z",
+			"workflow_run": {
+				"id": 2467575867,
+				"repository_id": 182299236,
+				"head_repository_id": 500716916,
+				"head_branch": "v-sdolin/debug-osversion",
+				"head_sha": "22b43a3041f43a44197567186a1eb48b3e5e9fb4"
+			}
+		},
+		{
+			"id": 265079631,
+			"node_id": "MDg6QXJ0aWZhY3QyNjUwNzk2MzE=",
+			"name": "my-artifact-1",
+			"size_in_bytes": 6,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/265079631",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/265079631/zip",
+			"expired": false,
+			"created_at": "2022-06-09T10:10:23Z",
+			"updated_at": "2022-06-09T10:10:24Z",
+			"expires_at": "2022-09-07T10:09:02Z",
+			"workflow_run": {
+				"id": 2467575867,
+				"repository_id": 182299236,
+				"head_repository_id": 500716916,
+				"head_branch": "v-sdolin/debug-osversion",
+				"head_sha": "22b43a3041f43a44197567186a1eb48b3e5e9fb4"
+			}
+		},
+		{
+			"id": 265074515,
+			"node_id": "MDg6QXJ0aWZhY3QyNjUwNzQ1MTU=",
+			"name": "my-artifact-3",
+			"size_in_bytes": 0,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/265074515",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/265074515/zip",
+			"expired": false,
+			"created_at": "2022-06-09T10:05:10Z",
+			"updated_at": "2022-06-09T10:05:11Z",
+			"expires_at": "2022-09-07T10:03:42Z",
+			"workflow_run": {
+				"id": 2467542626,
+				"repository_id": 182299236,
+				"head_repository_id": 500716916,
+				"head_branch": "v-sdolin/debug-osversion",
+				"head_sha": "7c3fe0db7d8c7a801c6b34aacdfe9a200567291a"
+			}
+		},
+		{
+			"id": 265074514,
+			"node_id": "MDg6QXJ0aWZhY3QyNjUwNzQ1MTQ=",
+			"name": "my-artifact-2",
+			"size_in_bytes": 136,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/265074514",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/265074514/zip",
+			"expired": false,
+			"created_at": "2022-06-09T10:05:10Z",
+			"updated_at": "2022-06-09T10:05:11Z",
+			"expires_at": "2022-09-07T10:03:42Z",
+			"workflow_run": {
+				"id": 2467542626,
+				"repository_id": 182299236,
+				"head_repository_id": 500716916,
+				"head_branch": "v-sdolin/debug-osversion",
+				"head_sha": "7c3fe0db7d8c7a801c6b34aacdfe9a200567291a"
+			}
+		},
+		{
+			"id": 265074513,
+			"node_id": "MDg6QXJ0aWZhY3QyNjUwNzQ1MTM=",
+			"name": "my-artifact-1",
+			"size_in_bytes": 6,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/265074513",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/265074513/zip",
+			"expired": false,
+			"created_at": "2022-06-09T10:05:10Z",
+			"updated_at": "2022-06-09T10:05:11Z",
+			"expires_at": "2022-09-07T10:03:41Z",
+			"workflow_run": {
+				"id": 2467542626,
+				"repository_id": 182299236,
+				"head_repository_id": 500716916,
+				"head_branch": "v-sdolin/debug-osversion",
+				"head_sha": "7c3fe0db7d8c7a801c6b34aacdfe9a200567291a"
+			}
+		},
+		{
+			"id": 261614790,
+			"node_id": "MDg6QXJ0aWZhY3QyNjE2MTQ3OTA=",
+			"name": "cache",
+			"size_in_bytes": 22705,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/261614790",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/261614790/zip",
+			"expired": false,
+			"created_at": "2022-06-06T09:29:05Z",
+			"updated_at": "2022-06-06T09:29:06Z",
+			"expires_at": "2022-09-04T09:26:56Z",
+			"workflow_run": {
+				"id": 2446853193,
+				"repository_id": 182299236,
+				"head_repository_id": 182299236,
+				"head_branch": "main",
+				"head_sha": "b5f31bb5a25d129441c294fc81ba7f92f3e978ba"
+			}
+		},
+		{
+			"id": 261602974,
+			"node_id": "MDg6QXJ0aWZhY3QyNjE2MDI5NzQ=",
+			"name": "my-artifact-3",
+			"size_in_bytes": 0,
+			"url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/261602974",
+			"archive_download_url": "https://api.github.com/repos/actions/toolkit/actions/artifacts/261602974/zip",
+			"expired": false,
+			"created_at": "2022-06-06T09:13:13Z",
+			"updated_at": "2022-06-06T09:13:14Z",
+			"expires_at": "2022-09-04T09:11:55Z",
+			"workflow_run": {
+				"id": 2446789412,
+				"repository_id": 182299236,
+				"head_repository_id": 182299236,
+				"head_branch": "main",
+				"head_sha": "b5f31bb5a25d129441c294fc81ba7f92f3e978ba"
+			}
+		}
+	]
+}

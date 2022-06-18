@@ -1,0 +1,101 @@
+{
+	"total_count": 8,
+	"workflows": [
+		{
+			"id": 15394454,
+			"node_id": "W_kwDODi5LTM4A6uaW",
+			"name": "Build bcm27xx/bcm2708 openwrt",
+			"path": ".github/workflows/bcm27xx-bcm2708.yml",
+			"state": "active",
+			"created_at": "2021-11-18T09:30:49.000Z",
+			"updated_at": "2021-11-18T09:30:49.000Z",
+			"url": "https://api.github.com/repos/SuLingGG/OpenWrt-Rpi/actions/workflows/15394454",
+			"html_url": "https://github.com/SuLingGG/OpenWrt-Rpi/blob/main/.github/workflows/bcm27xx-bcm2708.yml",
+			"badge_url": "https://github.com/SuLingGG/OpenWrt-Rpi/workflows/Build%20bcm27xx/bcm2708%20openwrt/badge.svg"
+		},
+		{
+			"id": 15394455,
+			"node_id": "W_kwDODi5LTM4A6uaX",
+			"name": "Build bcm27xx/bcm2709 openwrt",
+			"path": ".github/workflows/bcm27xx-bcm2709.yml",
+			"state": "active",
+			"created_at": "2021-11-18T09:30:49.000Z",
+			"updated_at": "2021-11-18T09:30:49.000Z",
+			"url": "https://api.github.com/repos/SuLingGG/OpenWrt-Rpi/actions/workflows/15394455",
+			"html_url": "https://github.com/SuLingGG/OpenWrt-Rpi/blob/main/.github/workflows/bcm27xx-bcm2709.yml",
+			"badge_url": "https://github.com/SuLingGG/OpenWrt-Rpi/workflows/Build%20bcm27xx/bcm2709%20openwrt/badge.svg"
+		},
+		{
+			"id": 15394456,
+			"node_id": "W_kwDODi5LTM4A6uaY",
+			"name": "Build bcm27xx/bcm2710 openwrt",
+			"path": ".github/workflows/bcm27xx-bcm2710.yml",
+			"state": "active",
+			"created_at": "2021-11-18T09:30:49.000Z",
+			"updated_at": "2021-11-18T09:30:49.000Z",
+			"url": "https://api.github.com/repos/SuLingGG/OpenWrt-Rpi/actions/workflows/15394456",
+			"html_url": "https://github.com/SuLingGG/OpenWrt-Rpi/blob/main/.github/workflows/bcm27xx-bcm2710.yml",
+			"badge_url": "https://github.com/SuLingGG/OpenWrt-Rpi/workflows/Build%20bcm27xx/bcm2710%20openwrt/badge.svg"
+		},
+		{
+			"id": 15394457,
+			"node_id": "W_kwDODi5LTM4A6uaZ",
+			"name": "Build bcm27xx/bcm2711 openwrt",
+			"path": ".github/workflows/bcm27xx-bcm2711.yml",
+			"state": "active",
+			"created_at": "2021-11-18T09:30:49.000Z",
+			"updated_at": "2021-11-18T09:30:49.000Z",
+			"url": "https://api.github.com/repos/SuLingGG/OpenWrt-Rpi/actions/workflows/15394457",
+			"html_url": "https://github.com/SuLingGG/OpenWrt-Rpi/blob/main/.github/workflows/bcm27xx-bcm2711.yml",
+			"badge_url": "https://github.com/SuLingGG/OpenWrt-Rpi/workflows/Build%20bcm27xx/bcm2711%20openwrt/badge.svg"
+		},
+		{
+			"id": 15394458,
+			"node_id": "W_kwDODi5LTM4A6uaa",
+			"name": "Delete Old Workflows",
+			"path": ".github/workflows/delete-workflows.yml",
+			"state": "active",
+			"created_at": "2021-11-18T09:30:50.000Z",
+			"updated_at": "2021-11-18T09:30:50.000Z",
+			"url": "https://api.github.com/repos/SuLingGG/OpenWrt-Rpi/actions/workflows/15394458",
+			"html_url": "https://github.com/SuLingGG/OpenWrt-Rpi/blob/main/.github/workflows/delete-workflows.yml",
+			"badge_url": "https://github.com/SuLingGG/OpenWrt-Rpi/workflows/Delete%20Old%20Workflows/badge.svg"
+		},
+		{
+			"id": 15394459,
+			"node_id": "W_kwDODi5LTM4A6uab",
+			"name": "Build ipq40xx/generic openwrt",
+			"path": ".github/workflows/ipq40xx-generic.yml",
+			"state": "active",
+			"created_at": "2021-11-18T09:30:50.000Z",
+			"updated_at": "2021-11-18T09:30:50.000Z",
+			"url": "https://api.github.com/repos/SuLingGG/OpenWrt-Rpi/actions/workflows/15394459",
+			"html_url": "https://github.com/SuLingGG/OpenWrt-Rpi/blob/main/.github/workflows/ipq40xx-generic.yml",
+			"badge_url": "https://github.com/SuLingGG/OpenWrt-Rpi/workflows/Build%20ipq40xx/generic%20openwrt/badge.svg"
+		},
+		{
+			"id": 15394460,
+			"node_id": "W_kwDODi5LTM4A6uac",
+			"name": "Build rockchip/armv8 openwrt",
+			"path": ".github/workflows/rockchip-armv8.yml",
+			"state": "active",
+			"created_at": "2021-11-18T09:30:50.000Z",
+			"updated_at": "2021-11-18T09:30:50.000Z",
+			"url": "https://api.github.com/repos/SuLingGG/OpenWrt-Rpi/actions/workflows/15394460",
+			"html_url": "https://github.com/SuLingGG/OpenWrt-Rpi/blob/main/.github/workflows/rockchip-armv8.yml",
+			"badge_url": "https://github.com/SuLingGG/OpenWrt-Rpi/workflows/Build%20rockchip/armv8%20openwrt/badge.svg"
+		},
+		{
+			"id": 15394461,
+			"node_id": "W_kwDODi5LTM4A6uad",
+			"name": "Build x86/64 openwrt",
+			"path": ".github/workflows/x86-64.yml",
+			"state": "active",
+			"created_at": "2021-11-18T09:30:50.000Z",
+			"updated_at": "2021-11-18T09:30:50.000Z",
+			"url": "https://api.github.com/repos/SuLingGG/OpenWrt-Rpi/actions/workflows/15394461",
+			"html_url": "https://github.com/SuLingGG/OpenWrt-Rpi/blob/main/.github/workflows/x86-64.yml",
+			"badge_url": "https://github.com/SuLingGG/OpenWrt-Rpi/workflows/Build%20x86/64%20openwrt/badge.svg"
+		}
+	]
+}

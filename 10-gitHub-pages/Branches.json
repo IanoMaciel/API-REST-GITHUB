@@ -1,0 +1,130 @@
+[
+	{
+		"name": "dependabot/npm_and_yarn/actions/core-1.9.0",
+		"commit": {
+			"sha": "6ed3e8cd0782fb11917ceb9d1d9148d2d72dc011",
+			"url": "https://api.github.com/repos/peaceiris/actions-gh-pages/commits/6ed3e8cd0782fb11917ceb9d1d9148d2d72dc011"
+		},
+		"protected": false
+	},
+	{
+		"name": "dependabot/npm_and_yarn/actions/github-5.0.3",
+		"commit": {
+			"sha": "44c40bc7ee8928d81230c1ef7ef298af64ef3c54",
+			"url": "https://api.github.com/repos/peaceiris/actions-gh-pages/commits/44c40bc7ee8928d81230c1ef7ef298af64ef3c54"
+		},
+		"protected": false
+	},
+	{
+		"name": "dependabot/npm_and_yarn/actions/glob-0.3.0",
+		"commit": {
+			"sha": "f73773c0435dadf686fbf49eda8ec7fd0f7333d2",
+			"url": "https://api.github.com/repos/peaceiris/actions-gh-pages/commits/f73773c0435dadf686fbf49eda8ec7fd0f7333d2"
+		},
+		"protected": false
+	},
+	{
+		"name": "feat-dry-run",
+		"commit": {
+			"sha": "13045e3d3151745dd8772fedb8c94fc5cdba815c",
+			"url": "https://api.github.com/repos/peaceiris/actions-gh-pages/commits/13045e3d3151745dd8772fedb8c94fc5cdba815c"
+		},
+		"protected": false
+	},
+	{
+		"name": "feat-outputs-skipped",
+		"commit": {
+			"sha": "d38fb792ab0951e9b1d9368de44f43b64f166bef",
+			"url": "https://api.github.com/repos/peaceiris/actions-gh-pages/commits/d38fb792ab0951e9b1d9368de44f43b64f166bef"
+		},
+		"protected": false
+	},
+	{
+		"name": "feat-sha",
+		"commit": {
+			"sha": "3c30cf8942e61d353641bb460637db68493e7a74",
+			"url": "https://api.github.com/repos/peaceiris/actions-gh-pages/commits/3c30cf8942e61d353641bb460637db68493e7a74"
+		},
+		"protected": false
+	},
+	{
+		"name": "fix-creating-destDir",
+		"commit": {
+			"sha": "6571783733f563510f37be2c3665c5e8e2827e02",
+			"url": "https://api.github.com/repos/peaceiris/actions-gh-pages/commits/6571783733f563510f37be2c3665c5e8e2827e02"
+		},
+		"protected": false
+	},
+	{
+		"name": "gh-pages",
+		"commit": {
+			"sha": "33624cd31cc88d25d3b511cd412950e21edf8376",
+			"url": "https://api.github.com/repos/peaceiris/actions-gh-pages/commits/33624cd31cc88d25d3b511cd412950e21edf8376"
+		},
+		"protected": true
+	},
+	{
+		"name": "gh-pages-macos",
+		"commit": {
+			"sha": "d6fa4e352aca9258e5ae732ad76ec046b11455c5",
+			"url": "https://api.github.com/repos/peaceiris/actions-gh-pages/commits/d6fa4e352aca9258e5ae732ad76ec046b11455c5"
+		},
+		"protected": true
+	},
+	{
+		"name": "gh-pages-ubuntu-20.04",
+		"commit": {
+			"sha": "22b57952efd64b7986e58b42669f0f289bc4b645",
+			"url": "https://api.github.com/repos/peaceiris/actions-gh-pages/commits/22b57952efd64b7986e58b42669f0f289bc4b645"
+		},
+		"protected": true
+	},
+	{
+		"name": "gh-pages-windows",
+		"commit": {
+			"sha": "e8594f62fa69a66f8d468cb11066771a02d514a5",
+			"url": "https://api.github.com/repos/peaceiris/actions-gh-pages/commits/e8594f62fa69a66f8d468cb11066771a02d514a5"
+		},
+		"protected": true
+	},
+	{
+		"name": "i579",
+		"commit": {
+			"sha": "9a18a4d0fc62e7b303a7f9f07e81e86209d5c14d",
+			"url": "https://api.github.com/repos/peaceiris/actions-gh-pages/commits/9a18a4d0fc62e7b303a7f9f07e81e86209d5c14d"
+		},
+		"protected": false
+	},
+	{
+		"name": "main",
+		"commit": {
+			"sha": "1304921c60d95a91f76f5fea0ce500280f4a6702",
+			"url": "https://api.github.com/repos/peaceiris/actions-gh-pages/commits/1304921c60d95a91f76f5fea0ce500280f4a6702"
+		},
+		"protected": true
+	},
+	{
+		"name": "patch-1",
+		"commit": {
+			"sha": "62e5a4cc498814c25eef5dfcfacb2a13d59bdfe0",
+			"url": "https://api.github.com/repos/peaceiris/actions-gh-pages/commits/62e5a4cc498814c25eef5dfcfacb2a13d59bdfe0"
+		},
+		"protected": false
+	},
+	{
+		"name": "peaceiris-patch-1",
+		"commit": {
+			"sha": "d94773c401dda6d4d3d6a122ceaf39680e00c982",
+			"url": "https://api.github.com/repos/peaceiris/actions-gh-pages/commits/d94773c401dda6d4d3d6a122ceaf39680e00c982"
+		},
+		"protected": false
+	},
+	{
+		"name": "peaceiris-patch-2",
+		"commit": {
+			"sha": "7f110b8f7589dc08bcb0e04c4ad0def79dfbd537",
+			"url": "https://api.github.com/repos/peaceiris/actions-gh-pages/commits/7f110b8f7589dc08bcb0e04c4ad0def79dfbd537"
+		},
+		"protected": false
+	}
+]

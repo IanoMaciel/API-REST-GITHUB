@@ -1,0 +1,29 @@
+{
+	"total_count": 2,
+	"workflows": [
+		{
+			"id": 284923,
+			"node_id": "MDg6V29ya2Zsb3cyODQ5MjM=",
+			"name": "Build OpenWrt",
+			"path": ".github/workflows/build-openwrt.yml",
+			"state": "active",
+			"created_at": "2020-01-12T13:32:17.000Z",
+			"updated_at": "2020-01-12T13:32:17.000Z",
+			"url": "https://api.github.com/repos/P3TERX/Actions-OpenWrt/actions/workflows/284923",
+			"html_url": "https://github.com/P3TERX/Actions-OpenWrt/blob/main/.github/workflows/build-openwrt.yml",
+			"badge_url": "https://github.com/P3TERX/Actions-OpenWrt/workflows/Build%20OpenWrt/badge.svg"
+		},
+		{
+			"id": 4655004,
+			"node_id": "MDg6V29ya2Zsb3c0NjU1MDA0",
+			"name": "Update Checker",
+			"path": ".github/workflows/update-checker.yml",
+			"state": "active",
+			"created_at": "2021-01-02T21:58:00.000Z",
+			"updated_at": "2021-01-02T21:58:00.000Z",
+			"url": "https://api.github.com/repos/P3TERX/Actions-OpenWrt/actions/workflows/4655004",
+			"html_url": "https://github.com/P3TERX/Actions-OpenWrt/blob/main/.github/workflows/update-checker.yml",
+			"badge_url": "https://github.com/P3TERX/Actions-OpenWrt/workflows/Update%20Checker/badge.svg"
+		}
+	]
+}

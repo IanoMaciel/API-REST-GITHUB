@@ -1,0 +1,173 @@
+{
+	"total_count": 14,
+	"workflows": [
+		{
+			"id": 1341249,
+			"node_id": "MDg6V29ya2Zsb3cxMzQxMjQ5",
+			"name": "Validate Data",
+			"path": ".github/workflows/validate-data.yaml",
+			"state": "active",
+			"created_at": "2020-05-20T20:31:13.000Z",
+			"updated_at": "2020-05-20T23:32:50.000Z",
+			"url": "https://api.github.com/repos/actions/starter-workflows/actions/workflows/1341249",
+			"html_url": "https://github.com/actions/starter-workflows/blob/main/.github/workflows/validate-data.yaml",
+			"badge_url": "https://github.com/actions/starter-workflows/workflows/Validate%20Data/badge.svg"
+		},
+		{
+			"id": 1678965,
+			"node_id": "MDg6V29ya2Zsb3cxNjc4OTY1",
+			"name": "CI",
+			"path": ".github/workflows/blank.yml",
+			"state": "active",
+			"created_at": "2020-06-24T19:14:22.000Z",
+			"updated_at": "2020-06-24T19:14:22.000Z",
+			"url": "https://api.github.com/repos/actions/starter-workflows/actions/workflows/1678965",
+			"html_url": "https://github.com/actions/starter-workflows/blob/main/.github/workflows/blank.yml",
+			"badge_url": "https://github.com/actions/starter-workflows/workflows/CI/badge.svg"
+		},
+		{
+			"id": 2952401,
+			"node_id": "MDg6V29ya2Zsb3cyOTUyNDAx",
+			"name": "Deno",
+			"path": ".github/workflows/deno.yml",
+			"state": "active",
+			"created_at": "2020-10-11T20:22:37.000Z",
+			"updated_at": "2020-10-11T20:22:37.000Z",
+			"url": "https://api.github.com/repos/actions/starter-workflows/actions/workflows/2952401",
+			"html_url": "https://github.com/actions/starter-workflows/blob/main/.github/workflows/deno.yml",
+			"badge_url": "https://github.com/actions/starter-workflows/workflows/Deno/badge.svg"
+		},
+		{
+			"id": 3232484,
+			"node_id": "MDg6V29ya2Zsb3czMjMyNDg0",
+			"name": "Close as a support issue",
+			"path": ".github/workflows/label-support.yml",
+			"state": "active",
+			"created_at": "2020-10-27T22:44:26.000Z",
+			"updated_at": "2020-10-27T22:44:26.000Z",
+			"url": "https://api.github.com/repos/actions/starter-workflows/actions/workflows/3232484",
+			"html_url": "https://github.com/actions/starter-workflows/blob/main/.github/workflows/label-support.yml",
+			"badge_url": "https://github.com/actions/starter-workflows/workflows/Close%20as%20a%20support%20issue/badge.svg"
+		},
+		{
+			"id": 3232525,
+			"node_id": "MDg6V29ya2Zsb3czMjMyNTI1",
+			"name": "Close as a feature",
+			"path": ".github/workflows/label-feature.yml",
+			"state": "active",
+			"created_at": "2020-10-27T22:47:45.000Z",
+			"updated_at": "2021-04-13T23:41:53.000Z",
+			"url": "https://api.github.com/repos/actions/starter-workflows/actions/workflows/3232525",
+			"html_url": "https://github.com/actions/starter-workflows/blob/main/.github/workflows/label-feature.yml",
+			"badge_url": "https://github.com/actions/starter-workflows/workflows/Close%20as%20a%20feature/badge.svg"
+		},
+		{
+			"id": 3819252,
+			"node_id": "MDg6V29ya2Zsb3czODE5MjUy",
+			"name": "Mark stale issues and pull requests",
+			"path": ".github/workflows/stale.yml",
+			"state": "active",
+			"created_at": "2020-11-24T22:52:51.000Z",
+			"updated_at": "2021-06-16T13:55:34.000Z",
+			"url": "https://api.github.com/repos/actions/starter-workflows/actions/workflows/3819252",
+			"html_url": "https://github.com/actions/starter-workflows/blob/main/.github/workflows/stale.yml",
+			"badge_url": "https://github.com/actions/starter-workflows/workflows/Mark%20stale%20issues%20and%20pull%20requests/badge.svg"
+		},
+		{
+			"id": 7124955,
+			"node_id": "MDg6V29ya2Zsb3c3MTI0OTU1",
+			"name": "Comment run",
+			"path": ".github/workflows/comment_run.yml",
+			"state": "active",
+			"created_at": "2021-03-24T15:36:06.000Z",
+			"updated_at": "2021-03-24T15:36:06.000Z",
+			"url": "https://api.github.com/repos/actions/starter-workflows/actions/workflows/7124955",
+			"html_url": "https://github.com/actions/starter-workflows/blob/main/.github/workflows/comment_run.yml",
+			"badge_url": "https://github.com/actions/starter-workflows/workflows/Comment%20run/badge.svg"
+		},
+		{
+			"id": 12139298,
+			"node_id": "MDg6V29ya2Zsb3cxMjEzOTI5OA==",
+			"name": "Pull Request Labeler",
+			"path": ".github/workflows/labeler-triage.yml",
+			"state": "active",
+			"created_at": "2021-08-12T10:01:19.000Z",
+			"updated_at": "2021-08-12T10:01:19.000Z",
+			"url": "https://api.github.com/repos/actions/starter-workflows/actions/workflows/12139298",
+			"html_url": "https://github.com/actions/starter-workflows/blob/main/.github/workflows/labeler-triage.yml",
+			"badge_url": "https://github.com/actions/starter-workflows/workflows/Pull%20Request%20Labeler/badge.svg"
+		},
+		{
+			"id": 12660938,
+			"node_id": "MDg6V29ya2Zsb3cxMjY2MDkzOA==",
+			"name": "Validate Categories",
+			"path": ".github/workflows/validate-categories.yaml",
+			"state": "active",
+			"created_at": "2021-08-30T09:24:41.000Z",
+			"updated_at": "2021-08-30T09:24:41.000Z",
+			"url": "https://api.github.com/repos/actions/starter-workflows/actions/workflows/12660938",
+			"html_url": "https://github.com/actions/starter-workflows/blob/main/.github/workflows/validate-categories.yaml",
+			"badge_url": "https://github.com/actions/starter-workflows/workflows/Validate%20Categories/badge.svg"
+		},
+		{
+			"id": 12691992,
+			"node_id": "MDg6V29ya2Zsb3cxMjY5MTk5Mg==",
+			"name": "Validate Categories on PR",
+			"path": ".github/workflows/validate-category-on-pr.yaml",
+			"state": "active",
+			"created_at": "2021-08-31T07:10:27.000Z",
+			"updated_at": "2021-08-31T07:10:27.000Z",
+			"url": "https://api.github.com/repos/actions/starter-workflows/actions/workflows/12691992",
+			"html_url": "https://github.com/actions/starter-workflows/blob/main/.github/workflows/validate-category-on-pr.yaml",
+			"badge_url": "https://github.com/actions/starter-workflows/workflows/Validate%20Categories%20on%20PR/badge.svg"
+		},
+		{
+			"id": 25336018,
+			"node_id": "W_kwDOC-P1XM4BgpjS",
+			"name": "Sync workflows for GHES",
+			"path": ".github/workflows/sync-ghes.yaml",
+			"state": "active",
+			"created_at": "2022-05-03T05:03:49.000Z",
+			"updated_at": "2022-05-03T05:03:49.000Z",
+			"url": "https://api.github.com/repos/actions/starter-workflows/actions/workflows/25336018",
+			"html_url": "https://github.com/actions/starter-workflows/blob/main/.github/workflows/sync-ghes.yaml",
+			"badge_url": "https://github.com/actions/starter-workflows/workflows/Sync%20workflows%20for%20GHES/badge.svg"
+		},
+		{
+			"id": 25422482,
+			"node_id": "W_kwDOC-P1XM4Bg-qS",
+			"name": "Auto Assign",
+			"path": ".github/workflows/auto_assign.yml",
+			"state": "active",
+			"created_at": "2022-05-04T10:52:43.000Z",
+			"updated_at": "2022-05-04T10:52:43.000Z",
+			"url": "https://api.github.com/repos/actions/starter-workflows/actions/workflows/25422482",
+			"html_url": "https://github.com/actions/starter-workflows/blob/main/.github/workflows/auto_assign.yml",
+			"badge_url": "https://github.com/actions/starter-workflows/workflows/Auto%20Assign/badge.svg"
+		},
+		{
+			"id": 25495006,
+			"node_id": "W_kwDOC-P1XM4BhQXe",
+			"name": "Auto Assign",
+			"path": ".github/workflows/auto-assign.yml",
+			"state": "active",
+			"created_at": "2022-05-05T10:28:55.000Z",
+			"updated_at": "2022-05-05T10:52:36.000Z",
+			"url": "https://api.github.com/repos/actions/starter-workflows/actions/workflows/25495006",
+			"html_url": "https://github.com/actions/starter-workflows/blob/main/.github/workflows/auto-assign.yml",
+			"badge_url": "https://github.com/actions/starter-workflows/workflows/Auto%20Assign/badge.svg"
+		},
+		{
+			"id": 25496359,
+			"node_id": "W_kwDOC-P1XM4BhQsn",
+			"name": "Issue assignment",
+			"path": ".github/workflows/auto-assign-issues.yml",
+			"state": "active",
+			"created_at": "2022-05-05T10:52:36.000Z",
+			"updated_at": "2022-05-05T10:52:36.000Z",
+			"url": "https://api.github.com/repos/actions/starter-workflows/actions/workflows/25496359",
+			"html_url": "https://github.com/actions/starter-workflows/blob/main/.github/workflows/auto-assign-issues.yml",
+			"badge_url": "https://github.com/actions/starter-workflows/workflows/Issue%20assignment/badge.svg"
+		}
+	]
+}
