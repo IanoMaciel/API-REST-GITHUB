@@ -1,0 +1,74 @@
+[
+	{
+		"name": "bump",
+		"commit": {
+			"sha": "f5e3d22124d6512c4d38e98a710652ccc955b6c5",
+			"url": "https://api.github.com/repos/github/super-linter/commits/f5e3d22124d6512c4d38e98a710652ccc955b6c5"
+		},
+		"protected": false
+	},
+	{
+		"name": "dependabot/docker/alpine-3.16.0",
+		"commit": {
+			"sha": "5901a6c2a7e9bdb3e5850e86a0d090e06f2a4b1e",
+			"url": "https://api.github.com/repos/github/super-linter/commits/5901a6c2a7e9bdb3e5850e86a0d090e06f2a4b1e"
+		},
+		"protected": false
+	},
+	{
+		"name": "dependabot/docker/cljkondo/clj-kondo-2022.05.31-alpine",
+		"commit": {
+			"sha": "4669a98e5dbc06aed4800932c77102d44a2f4595",
+			"url": "https://api.github.com/repos/github/super-linter/commits/4669a98e5dbc06aed4800932c77102d44a2f4595"
+		},
+		"protected": false
+	},
+	{
+		"name": "dependabot/npm_and_yarn/dependencies/eslint-plugin-jest-26.5.3",
+		"commit": {
+			"sha": "035a5675a8c7effee191879945dd3ddb0cf438f9",
+			"url": "https://api.github.com/repos/github/super-linter/commits/035a5675a8c7effee191879945dd3ddb0cf438f9"
+		},
+		"protected": false
+	},
+	{
+		"name": "fix-alpine-pkg-glibc",
+		"commit": {
+			"sha": "0da8477089be6bd33c9dcbc3f4f4b1aa9f4d3814",
+			"url": "https://api.github.com/repos/github/super-linter/commits/0da8477089be6bd33c9dcbc3f4f4b1aa9f4d3814"
+		},
+		"protected": false
+	},
+	{
+		"name": "main",
+		"commit": {
+			"sha": "aa9092c0cfff67650b9813380a02d03442fd46ec",
+			"url": "https://api.github.com/repos/github/super-linter/commits/aa9092c0cfff67650b9813380a02d03442fd46ec"
+		},
+		"protected": true
+	},
+	{
+		"name": "npm-deps",
+		"commit": {
+			"sha": "c0271c4a58a19d20a29178cb43e04eaca2d4313c",
+			"url": "https://api.github.com/repos/github/super-linter/commits/c0271c4a58a19d20a29178cb43e04eaca2d4313c"
+		},
+		"protected": false
+	},
+	{
+		"name": "python_deps_2028508369",
+		"commit": {
+			"sha": "ecf10fb9c7c6b15244f375bbd985a3635092a2e4",
+			"url": "https://api.github.com/repos/github/super-linter/commits/ecf10fb9c7c6b15244f375bbd985a3635092a2e4"
+		},
+		"protected": false
+	},
+	{
+		"name": "python_deps_2085925145",
+		"commit": {
+			"sha": "4da0110dbb0dee97366566b36d135625aab4e9ea",
+			"url": "https://api.github.com/repos/github/super-linter/commits/4da0110dbb0dee97366566b36d135625aab4e9ea"
+		},
+		"protected": false
+	}
+]
